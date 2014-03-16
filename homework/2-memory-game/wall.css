@@ -1,0 +1,42 @@
+
+
+.cut {
+    width: 330px;
+    margin:40 auto;
+}
+#box1,#box2,#box3,#box4 {
+    width:10px;
+    height:10px;
+    border: 3px solid blue;
+    float: left;
+
+}
+
+#box5,#box6,#box7,#box8 {
+    width:10px;
+    height:10px;
+float: left;
+    border:3px solid blue;
+}
+
+#box9,#box10,#box11,#box12 {
+    width:10px;
+    height:10px;
+    float: left;
+    border:3px solid Blue;
+
+}
+
+#box13,#box14,#box15,#box16 {
+    width:10px;
+    height:10px;
+    float: left;
+    border:3px solid Blue;
+
+}
+
+#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9, #box10, #box11, #box12, #box13, #box14, #box15, #box16{
+background-color: black;
+color: yellow;
+font-size:30px;
+padding: 30px;}

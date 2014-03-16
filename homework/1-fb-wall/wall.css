@@ -5,4 +5,5 @@
   width: 800px;
   margin: 0px auto;
   overflow: auto;
+background: -webkit-linear-gradient(left top, white, purple, gray, red, Green, yellow, orange, blue);
 }
